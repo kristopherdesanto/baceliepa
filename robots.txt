@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uveikohzah.xn--80aibxmt.xn--p1ai/sitemap.xml
